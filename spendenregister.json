@@ -1,0 +1,113 @@
+[
+  {
+    "name": "Anthony Potdevin",
+    "github": "apotdevin",
+    "twitter": "tonyioi",
+    "spendenURL": "https://github.com/sponsors/apotdevin",
+    "avatar": "https://avatars3.githubusercontent.com/u/31413433?s=460&u=719e165488e0c8092bb234f7180140d53bcc382c&v=4",
+    "beschreibung": "Freier Entwickler aus München, der hauptsächlich an der Entwicklung des Lightning-Node-Managers [ThunderHub](https://github.com/apotdevin/thunderhub) arbeitet. Dabei handelt es sich um eine freie Open-Source Lösung für die Verwaltung der eigenen Lightning-Node auf einem dedizierten Gerät, wie z.B. dem RaspiBlitz.",
+    "id": "anthony-potdevin"
+  },
+  {
+    "name": "Bitcoin Beach",
+    "twitter": "Bitcoinbeach",
+    "spendenURL": "https://platform.engiven.com/give/8/widget/34",
+    "avatar": "/img/spenden/bitcoinbeach.png",
+    "beschreibung": "Erster [Ort / Gemeinschaft](https://www.bitcoinbeach.com/) in El Salvador die an der Pazifikküste eine Kreislaufwirtschaft auf Basis von Bitcoin errichtet haben. Ziel ist es die finanzielle Inklusion zu stärken und die Gemeinschaft wirtschaftlich zu entwickeln.",
+    "id": "bitcoin-beach"
+  },
+  {
+    "name": "Bitcoin Smiles",
+    "twitter": "BitcoinSmiles",
+    "spendenURL": "https://bitcoinsmiles.org/",
+    "avatar": "/img/spenden/bitcoinsmiles.jpg",
+    "beschreibung": "Initiative des einzigen Zahnarztes aus dem durch den Bitcoin Beach bekannten Ferienort El Zonte in El Salvador. Ziel der Initiative ist es, der lokalen Bevölkerung eine bessere Zahnmedizin zu bieten, die sie sich selbst nicht leisten könnten. Insbesondere älteren Leuten fehlt häufig das Geld für eine ausreichende Behandlung der Zähne.",
+    "id": "bitcoin_smiles"
+  },
+  {
+    "name": "BTC21 Bounty Programm",
+    "twitter": "btc21_de",
+    "spendenURL": "http://bounties.btc21.de",
+    "avatar": "/img/spenden/btc21.jpg",
+    "beschreibung": "Hochqualitatives Bitcoin-only Magazin, welches nun die Möglichkeit bietet, eigene Artikel zu veröffentlichen, die in Sats vergütet werden. Dazu können neue Themen gegen eine Spende eingereicht werden und anschließend von einer freien Autorin / Autor bearbeitet werden. Damit weiß die Autorin / der Autor sofort, mit welcher Vergütung sie / er mindestens rechnen kann.",
+    "id": "btc21"
+  },
+  {
+    "name": "Fodé Diop",
+    "github": "diop",
+    "twitter": "diopfode",
+    "spendenURL": "https://strike.me/diopfode",
+    "avatar": "https://avatars.githubusercontent.com/u/971941?v=4",
+    "beschreibung": "Senegalischer Entwickler, der in den USA lebt und aktuell eine [Onlineakademie](https://www.bitcoindevelopers.academy/) für die Bitcoin Entwicklung aufbauen möchte. Größtes Ziel ist die weitere Verbreitung von Bitcoin in Afrika, insbesondere die Länder, die unter dem [CFA](https://aprycot.media/blog/kolonialismus-und-bitcoin/) leiden.",
+    "id": "fode_diop"
+  },
+  {
+    "name": "Human B",
+    "twitter": "cinemuck_",
+    "spendenURL": "https://tallyco.in/s/higwxl/",
+    "avatar": "/img/spenden/human-b.jpg",
+    "beschreibung": "HUMAN B ist kein Film über Bitcoin. Es ist ein Film über Menschen, die sich intensiv mit Bitcoin beschäftigen und deren Leben sich komplett verändert hat.",
+    "id": "human-b"
+  },
+  {
+    "name": "Human Rights Fundation",
+    "github": "",
+    "twitter": "HRF",
+    "spendenURL": "https://hrf.org/donate-bitcoin/",
+    "avatar": "/img/spenden/hrf.jpg",
+    "beschreibung": "Menschenrechtsorganisation, die sich für den Schutz, die Finanzierung und Unterstützung von Aktivisten einsetzt. Über die Stiftung werden zudem größere Summen für Projekte und Einzelpersonen bereitgestellt, damit diese sich Vollzeit um die Entwicklung im Bereich von Bitcoin engagieren können.",
+    "id": "human_rights_fundation"
+  },
+  {
+    "name": "Mempool.space",
+    "github": "mempool/mempool",
+    "twitter": "mempool",
+    "spendenURL": "https://mempool.space/de/sponsor",
+    "avatar": "/img/spenden/mempool.jpg",
+    "beschreibung": "Freie Open-Source Lösung für einen Bitcoin Blockexplorer. Die Software stellt ein modernes Interface zur Verfügung, welches auch auf der eigenen Bitcoin Full-Node installiert werden und betrieben werden kann.",
+    "id": "mempool_space"
+  },
+  {
+    "name": "netpositive.money",
+    "github": "netpositive-money",
+    "twitter": "netposmon",
+    "spendenURL": "https://netpositive.money/",
+    "beschreibung": "Initiative, um Aufmerksamkeit für den Stromverbrauch und die Emission von Treibhausgasen des Bitcoin-Netzwerks zu schaffen. Aus Basis von unterschiedlichen wissenschaftlichen Quellen wurde ein Kalkulator für den persönlichen ökologischen Fußabdruck durch das Halten von Bitcoin entwickelt und Empfehlungen für die Kompensation aufgezeigt.",
+    "id": "netpositive-money"
+  },
+  {
+    "name": "RaspiBlitz",
+    "github": "RaspiBlitz",
+    "twitter": "RaspiBlitz",
+    "spendenURL": "https://tallyco.in/s/r5lx23/",
+    "avatar": "/img/spenden/raspiblitz.jpg",
+    "beschreibung": "Open-Source Lösung einer Bitcoin Full-Node mit integrierter Lightning-Node auf Basis des Raspberry-Pi's. Wird überwiegend von deutschen Entwicklern weiterentwickelt und ist komplett als freie Software erhältlich, womit auch eine kommerzielle Nutzung möglich wird. In diesem Fall unterscheidet sich das RaspiBlitz Projekt von anderen Full-Node Projekten am Markt.",
+    "id": "raspiblitz"
+  },
+  {
+    "name": "Rene Pickhardt",
+    "github": "renepickhardt",
+    "twitter": "renepickhardt",
+    "spendenURL": "https://donate.ln.rene-pickhardt.de/",
+    "avatar": "https://avatars.githubusercontent.com/u/1926816?s=460",
+    "beschreibung": "Deutscher Entwickler, dem der freie Zugriff auf Bildungsinhalte sehr wichtig ist und sich primär mit der Forschung und Entwicklung rund um das Lightning-Netzwerk beschäftigt. Aktuell wichtigstes Projekt ist ein neuer Ansatz für einen Routing-Algorithmus im Lightning-Netzwerk. Dieser Ansatz wird unter dem Namen Pickhardt-Payments geführt.",
+    "id": "rene-pickhardt"
+  },
+  {
+    "name": "Run with Bitcoin",
+    "twitter": "RunwithBitcoin",
+    "spendenURL": "https://support.runwithbitcoin.com/",
+    "avatar": "/img/spenden/runwithbitcoin.jpg",
+    "beschreibung": "Paco aus Indien startete am 17.09.2021 zu einer Reise durch 40 Länder in über 400 Tagen, die ausschließlich über Bitcoin finanziert werden soll. Auf seiner Reise möchte er den Menschen Bitcoin näherbringen und diesen von dessen vielen Vorteilen berichten.",
+    "id": "run_with_bitcoin"
+  },
+  {
+    "name": "Specter",
+    "github": "cryptoadvance/specter-desktop",
+    "twitter": "SpecterWallet",
+    "spendenURL": "https://btcpay.benkaufman.info/apps/2NBJqJ9GMmy1SPqEtg49bEcKUZqd/pos",
+    "avatar": "/img/spenden/specter.png",
+    "beschreibung": "Specter ist eine Desktop-Wallet, die verschiedenste Hardware-Wallets unterstützt und viele Möglichkeiten im Bereich MultiSig mitbringt.",
+    "id": "specter"
+  }
+]

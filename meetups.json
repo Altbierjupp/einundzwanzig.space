@@ -1,72 +1,361 @@
 [
   {
-    "name": "Einundzwanzig Meetup Düsseldorf",
-    "region": "Düsseldorf",
-    "telegram": "https://t.me/joinchat/pwUMGpOQzDZiZDRi"
+    "name": "Einundzwanzig Mecklenburg-Vorpommern",
+    "url": "https://t.me/joinchat/lMbna3mlZXc0NmZi",
+    "country": "DE",
+    "state": [
+      "Mecklenburg-Vorpommern"
+    ]
   },
   {
-    "name": "Einundzwanzig Meetup Frankfurt am Main",
-    "region": "Frankfurt am Main",
-    "telegram": "https://t.me/joinchat/Ox2zR68PzuQ2OTYy"
+    "name": "Einundzwanzig Norddeutschland",
+    "url": "https://t.me/joinchat/k4sCySBhUx03NzFi",
+    "country": "DE",
+    "state": [
+      "Hamburg",
+      "Bremen",
+      "Niedersachsen"
+    ]
   },
   {
-    "name": "Einundzwanzig Meetup Mainz und Umland",
-    "region": "Mainz, Wiesbaden",
-    "telegram": "https://t.me/joinchat/kgdKrjL58C1lOTAy"
+    "name": "Bitcoin Berlin",
+    "url": "https://www.meetup.com/de-DE/Bitcoin-Lab-Berlin/",
+    "country": "DE",
+    "state": [
+      "Berlin"
+    ]
   },
   {
-    "name": "Einundzwanzig Meetup Norddeutschland",
-    "region": "Hamburg, Bremen, Hannover",
-    "telegram": "https://t.me/joinchat/k4sCySBhUx03NzFi"
+    "name": "Einundzwanzig Berlin",
+    "url": "https://t.me/joinchat/vUYgAbXeCnIzMWRi",
+    "country": "DE",
+    "state": [
+      "Berlin"
+    ]
   },
   {
-    "name": "Einundzwanzig Meetup Mecklenburg-Vorpommern",
-    "region": "Rostock, Stralsund, Greifswald",
-    "telegram": "https://t.me/joinchat/lMbna3mlZXc0NmZi"
+    "name": "Bitcoin Hannover",
+    "url": "https://t.me/joinchat/CE-3VDEiVBVmMjNi",
+    "country": "DE",
+    "state": [
+      "Niedersachsen"
+    ]
   },
   {
-    "name": "Einundzwanzig Meetup Köln",
-    "region": "Köln",
-    "telegram": "https://t.me/joinchat/0rUVc-k5fBljNWUy"
+    "name": "Einundzwanzig Osnabrück",
+    "url": "https://t.me/joinchat/Fw8Q8DQgishiNjEy",
+    "country": "DE",
+    "state": [
+      "Niedersachsen"
+    ]
   },
   {
-    "name": "Einundzwanzig Meetup OWL",
-    "region": "Ostwestfalen",
-    "telegram": "https://t.me/joinchat/xypeWtlKm1JjN2I0"
+    "name": "Einundzwanzig Essen",
+    "url": "https://t.me/Einundzwanzig_Ruhrgebiet",
+    "country": "DE",
+    "state": [
+      "Nordrhein-Westfalen"
+    ]
   },
   {
-    "name": "Einundzwanzig Meetup Saarland",
-    "region": "Saarland",
-    "telegram": "https://t.me/einundzwanzigsaarland"
+    "name": "Einundzwanzig Düsseldorf",
+    "url": "https://t.me/joinchat/pwUMGpOQzDZiZDRi",
+    "country": "DE",
+    "state": [
+      "Nordrhein-Westfalen"
+    ]
   },
   {
-    "name": "Einundzwanzig Meetup Sachsen-Anhalt",
-    "region": "Sachsen-Anhalt",
-    "telegram": "https://t.me/Meetup21SA"
+    "name": "Einundzwanzig Heinsberg",
+    "url": "https://t.me/joinchat/u4n4Im4IrSdjYTMy",
+    "country": "DE",
+    "state": [
+      "Nordrhein-Westfalen"
+    ]
   },
   {
-    "name": "Einundzwanzig Meetup Stuttgart",
-    "region": "Stuttgart",
-    "telegram": "https://t.me/joinchat/JdWiqM3tYh4wZTMy"
+    "name": "Einundzwanzig OWL",
+    "url": "https://t.me/joinchat/xypeWtlKm1JjN2I0",
+    "country": "DE",
+    "state": [
+      "Nordrhein-Westfalen"
+    ]
   },
   {
-    "name": "Einundzwanzig Meetup Mannheim",
-    "region": "Rhein-Neckar",
-    "telegram": "https://t.me/joinchat/lYrIAlEAZYwzNThi"
+    "name": "Einundzwanzig Sachsen-Anhalt",
+    "url": "https://t.me/Meetup21SA",
+    "country": "DE",
+    "state": [
+      "Sachsen-Anhalt"
+    ]
   },
   {
-    "name": "Einundzwanzig Meetup Kempten",
-    "region": "Allgäu",
-    "telegram": "https://t.me/joinchat/e1KRNLcIeto3MDky"
+    "name": "Einundzwanzig Göttingen",
+    "url": "https://t.me/joinchat/734j5QkMMcEyZDM6",
+    "country": "DE",
+    "state": [
+      "Niedersachsen"
+    ]
   },
   {
-    "name": "Einundzwanzig Meetup Wien",
-    "region": "Wien",
-    "telegram": "https://t.me/joinchat/zrBSbkocvlUyZWE8"
+    "name": "Bitcoin Leipzig",
+    "url": "https://www.meetup.com/de-DE/Leipziger-Bitcoin-Stammtisch/",
+    "country": "DE",
+    "state": [
+      "Sachsen"
+    ]
   },
   {
-    "name": "Bitcoin und Bier - Einundzwanzig Meetup Schweiz",
-    "region": "Schweiz",
-    "telegram": "https://t.me/joinchat/8-FBDoq3Y9hkODZk"
+    "name": "Bitcoin Dresden",
+    "url": "https://www.meetup.com/de-DE/Dresdner-Bitcoin-Stammtisch",
+    "country": "DE",
+    "state": [
+      "Sachsen"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Köln",
+    "url": "https://t.me/joinchat/0rUVc-k5fBljNWUy",
+    "country": "DE",
+    "state": [
+      "Nordrhein-Westfalen"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Koblenz",
+    "url": "https://t.me/joinchat/eC8CpH9hL9M3NjIy",
+    "country": "DE",
+    "state": [
+      "Rheinland-Pfalz"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Frankfurt am Main",
+    "url": "https://t.me/joinchat/Ox2zR68PzuQ2OTYy",
+    "country": "DE",
+    "state": [
+      "Hessen"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Darmstadt",
+    "url": "https://t.me/einundzwanzigda",
+    "country": "DE",
+    "state": [
+      "Hessen"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Mainz",
+    "url": "https://t.me/joinchat/kgdKrjL58C1lOTAy",
+    "country": "DE",
+    "state": [
+      "Rheinland-Pfalz"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Mannheim",
+    "url": "https://t.me/joinchat/lYrIAlEAZYwzNThi",
+    "country": "DE",
+    "state": [
+      "Baden-Württemberg"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Saarland",
+    "url": "https://t.me/einundzwanzigsaarland",
+    "country": "DE",
+    "state": [
+      "Saarland"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Franken",
+    "url": "https://t.me/joinchat/08upA6MrVKpkNWE6",
+    "country": "DE",
+    "state": [
+      "Bayern"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Stuttgart",
+    "url": "https://t.me/joinchat/JdWiqM3tYh4wZTMy",
+    "country": "DE",
+    "state": [
+      "Baden-Württemberg"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Passau",
+    "url": "https://t.me/joinchat/4f7oq2Phj9hmMmEy",
+    "country": "DE",
+    "state": [
+      "Bayern"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Augsburg",
+    "url": "https://t.me/joinchat/Jn-S3Nf2rcE1YjMy",
+    "country": "DE",
+    "state": [
+      "Bayern"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Freising",
+    "url": "https://t.me/joinchat/6UoOaFNGuPVhZWQy",
+    "country": "DE",
+    "state": [
+      "Bayern"
+    ]
+  },
+  {
+    "name": "Bitcoin Ulm",
+    "url": "https://www.meetup.com/de-DE/Bitcoin-Ulm/",
+    "country": "DE",
+    "state": [
+      "Baden-Württemberg"
+    ]
+  },
+  {
+    "name": "Bitcoin München",
+    "url": "https://www.meetup.com/de-DE/Bitcoin-Munich/",
+    "country": "DE",
+    "state": [
+      "Bayern"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Freiburg",
+    "url": "https://t.me/joinchat/YLGPVwmdHY0zZWNi",
+    "country": "DE",
+    "state": [
+      "Baden-Württemberg"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Kempten",
+    "url": "https://t.me/joinchat/e1KRNLcIeto3MDky",
+    "country": "DE",
+    "state": [
+      "Bayern"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Konstanz",
+    "url": "https://t.me/joinchat/eC1XI03uRMRhMzgy",
+    "country": "DE",
+    "state": [
+      "Baden-Württemberg"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Thüringen",
+    "url": "https://t.me/einundzwanzigthueringen",
+    "country": "DE",
+    "state": [
+      "Thüringen"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Wien",
+    "url": "https://t.me/joinchat/zrBSbkocvlUyZWE8",
+    "country": "AT",
+    "state": [
+      "Wien"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Ried i.I.",
+    "url": "https://t.me/joinchat/ilNlHsXTLqsyOTA0",
+    "country": "AT",
+    "state": [
+      "Oberösterreich"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Salzburg",
+    "url": "https://t.me/BitcoinSalzburg",
+    "country": "AT",
+    "state": [
+      "Salzburg"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Innsbruck",
+    "url": "https://t.me/joinchat/tEUQAr-3-m8xNWVk",
+    "country": "AT",
+    "state": [
+      "Tirol"
+    ]
+  },
+  {
+    "name": "Bitcoin Graz",
+    "url": "https://www.meetup.com/de-DE/Bitcoin-Austria/",
+    "country": "AT",
+    "state": [
+      "Steiermark"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Klagenfurt",
+    "url": "https://t.me/joinchat/HWL1SbGFCTU0ZTY0",
+    "country": "AT",
+    "state": [
+      "Steiermark"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Basel",
+    "url": "https://t.me/einundzwanzig_basel",
+    "country": "CH",
+    "state": [
+      "Basel"
+    ]
+  },
+  {
+    "name": "Bitcoin Bern",
+    "url": "https://www.meetup.com/de-DE/bitcoin-bern/events/",
+    "country": "CH",
+    "state": [
+      "Bern"
+    ]
+  },
+  {
+    "name": "Bitcoin Zürich",
+    "url": "https://www.meetup.com/de-DE/Bitcoin-Meetup-Switzerland/?_locale=de-DE",
+    "country": "CH",
+    "state": [
+      "Zürich"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Schweiz",
+    "url": "https://t.me/joinchat/8-FBDoq3Y9hkODZk",
+    "country": "CH",
+    "state": [
+      "Bern",
+      "Luzern",
+      "Nidwalden",
+      "Zürich",
+      "Zug",
+      "Solothurn"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Liechtenstein",
+    "url": "https://t.me/joinchat/0UnzuwPmiitlMzE0",
+    "country": "LI",
+    "state": [
+      "Liechtenstein"
+    ]
+  },
+  {
+    "name": "Bitcoin Vorarlberg",
+    "url": "https://t.me/joinchat/wcmh65S3nxg3MGI0",
+    "country": "AT",
+    "state": [
+      "Vorarlberg"
+    ]
   }
 ]
